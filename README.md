@@ -35,3 +35,6 @@ CREATE TABLE reservation (
     contact_number VARCHAR(15),
     reservation_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+<img width="263" height="242" alt="image" src="https://github.com/user-attachments/assets/5b3718a0-fa0d-42cf-8bde-fef62ed59430" />
+
