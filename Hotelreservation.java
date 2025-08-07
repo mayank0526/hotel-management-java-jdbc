@@ -5,9 +5,9 @@ import java.util.Scanner;
 
 public class Hotelreservation {
 
-    private static final String url = "jdbc:mysql://localhost:3306/hotel_db";
-    private static final String user = "root";
-    private static final String pass = "Mayank@12";
+    private static final String url = "----";
+    private static final String user = "---";
+    private static final String pass = "----";
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         try {
@@ -228,4 +228,5 @@ String newcontact = sc.next();
         System.out.println("Exited Successfully");
     }
 }
+
 
